@@ -1,0 +1,2 @@
+{"uname": "euser", "password": "gAAAAABdOX__2qbANDJvPHwG9jx9OGnMsg05ycibCLr5rfHzKt99mOdQvS2eRl_WilDHZ8v-MEMINqowjnPB8oDJ0tMwdCilhQ=="}
+{"uname": "euser2", "password": "gAAAAABdOYYRus190SHT2nKIvEgYX7mvMyqv_RTh5jTOSx9koBsNFk6By9j3NjH2RFDowlmXBV7a67xUnn362D8Vg7omDyOtJg=="}
